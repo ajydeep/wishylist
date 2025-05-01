@@ -1,7 +1,7 @@
 {
-  "name": "myntra-wishlist",
+  "name": "wishlist",
   "version": "1.0.0",
-  "description": "Myntra-inspired Wishlist Tracker with Node.js",
+  "description": " Wishlist Tracker with Node.js",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
